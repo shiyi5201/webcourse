@@ -1,5 +1,7 @@
 p {
   font-style: Verdana,Geneva,Arial;
+  
+
 }
 html {
       font-size: 12px;
@@ -20,4 +22,8 @@ h2 {
 }
 blockquote {
             font-style: italic;
+}
+body{
+      margin:0px;
+      padding:0px;
 }
