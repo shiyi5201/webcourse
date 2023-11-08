@@ -1,6 +1,12 @@
-.guar{
+.guar {
   color: aqua;
 }
-.guar{
+.guar {
   color: blueviolet;
+}
+p {
+  color: brown;
+}
+p.come{
+  color: blanchedalmond;
 }
