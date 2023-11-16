@@ -90,3 +90,8 @@ a:visited {
   z-index: 100;
 } */
 
+.main {
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
