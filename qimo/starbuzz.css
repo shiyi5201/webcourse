@@ -1,0 +1,21 @@
+.backgroung {
+  display: grid;
+  margin: 2rem auto;
+}
+
+img {
+  width: 100%;
+}
+
+.backgroung, .search {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.search {
+  color: white;
+}
+
+.paragraph {
+  color: white;
+}
