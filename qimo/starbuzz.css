@@ -19,3 +19,24 @@ img {
 .paragraph {
   color: white;
 }
+
+button {
+  background-color: #007bff;
+  color: white;
+}
+
+button {
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    text-align: center;
+    cursor: default
+}
+
+.row {
+  color: white;
+}
