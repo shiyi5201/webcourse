@@ -4,8 +4,10 @@
   z-index: 100;
   /* position: absolute; */
   margin-top: 10px;
-  
+  filter: brightness(30%);
+  opacity: 0.8;
 }
+
 
 .search {
   margin-bottom: 50px;
@@ -22,9 +24,11 @@
 
 .ss {
   font-size: 14px;
-  border: 2px solid rgba(112,112,112,0.38);
   border-radius: 5px;
   color: var(--color-gray-dark-plus);
+  font-size: 24px;
+  letter-spacing: -1px;
+  padding-right: 20px;
   
 }
 
@@ -88,9 +92,7 @@ button {
 
 }
 
-.backgroung {
-  opacity: 0.7;
-}
+
 
 /* .super {
   font-size: 0.5px;
@@ -112,15 +114,14 @@ button {
   border: solid white;
   border-width: 2px;
   color: white;
+  padding: 10px 80px 10px 80px
 }
 
 
 /* .col {
   
 } */
-/* .ss {
-  
-} */
+
 
 .paragraph {
   display: block;
